@@ -109,19 +109,8 @@ h3{
    display: flex;
    justify-content:space-evenly;
    padding-bottom: 10px;
-   padding-left: 2%;
-   padding-right: 2%;
+   padding-left: 45%;
 }
-#imagem2{
-   width:100%;
-   display: flex;
-   justify-content: space-evenly;
-   padding-bottom:10px;
-   padding-left: 2%;
-   padding-right: 2%;
-   
-}
-
 
 #favoritos{
    background-image: url(../fundo.png);
